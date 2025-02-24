@@ -1,6 +1,3 @@
-// 2024 SPRING - CS 204 HOMEWORK 1
-// ALANUR ERSOY
-// 31955
 #include <iostream>
 #include <fstream>
 #include <string>
