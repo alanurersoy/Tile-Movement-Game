@@ -76,16 +76,7 @@ l u - u - - l
 - **No global variables** allowed.  
 - **No `break` or `continue` statements**.  
 - **Only standard C++ libraries** can be used.  
-- The program must follow proper **modularization** and **coding standards**.  
-
-### Grading Criteria  
-- Correctness and adherence to the rules.  
-- Code **efficiency**, **readability**, and **modularity**.  
-- Handling **edge cases** and **invalid inputs**.  
-
-### Author  
-- **Alanur Ersoy**  
-- **Sabancı University - CS204 Spring 2024**  
+- The program must follow proper **modularization** and **coding standards**. 
 
 ---
 
