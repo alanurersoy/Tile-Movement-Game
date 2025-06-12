@@ -1,8 +1,5 @@
 # Tile-Movement-Game
 
-# CS204 - Advanced Programming  
-## Spring 2024 - Homework 1: Tile Movement Game  
-
 ### Overview  
 This project is an implementation of a **Tile Movement Game** using **C++**. The goal of this assignment is to practice working with **2D matrices** using a `vector<vector<char>>` data structure. The program reads an initial matrix from a file and then allows the user to move tiles based on specific rules.  
 
